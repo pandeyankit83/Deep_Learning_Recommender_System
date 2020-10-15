@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-
-@author: Ankit
+@author: Ankit Pandey
 """
 
 from surprise import AlgoBase
