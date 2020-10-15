@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-@author: Ankit
+@author: Ankit Pandey
 """
 from surprise.model_selection import train_test_split
 from surprise.model_selection import LeaveOneOut
