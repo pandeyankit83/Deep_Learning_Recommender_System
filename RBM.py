@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-@author: Ankit Pandey
-
+@author: Ankit 
 """
 
 import numpy as np
