@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-@author: Ankit
+@author: Ankit Pandey
 """
 from EvaluationData import EvaluationData
 from EvaluatedAlgorithm import EvaluatedAlgorithm
